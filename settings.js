@@ -11,8 +11,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
+global.ownernomer = "237672080608"
+global.ownername = "𓆩ᬼ⃟𝗚𝗢𝗗⛃⃟༄𝐌𝐈𝐆𝐇𝐓𝐘᭄亗𝐒𝐀𝐒𝐀𝐊𝐈亗࿐"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
